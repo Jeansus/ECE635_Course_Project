@@ -18,8 +18,8 @@ Develop deep learning tracking algorithm for two mobile systems.
 Software: Python, Laptop with CUDA-enabled GPU
 
 ## Team Member Responsibilities
-- Collin: setup, research, algorithm design
-- James: software, networking, writing
+- Collin Tucker: setup, research, algorithm design
+- James McCall: software, networking, writing
 
 ## Project Timeline
 - October: Research and understand TartanVO, start implementation
