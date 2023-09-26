@@ -12,7 +12,7 @@ Develop deep learning tracking algorithm for two mobile systems.
 - Analyze performance difference across datasets and reason about it
 
 ## System Blocks
-![System Block]()
+![System Block](SystemBlock.png)
 
 ## HW/SW requirements
 Software: Python, Laptop with CUDA-enabled GPU
